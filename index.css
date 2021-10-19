@@ -1,0 +1,365 @@
+.container{
+  padding-top: 250px;
+}
+.banner{
+  background-color:#333333 ;
+  height: 100vh;
+  width: 100%;
+  color: #fff;
+  
+}
+.banner p{
+  padding-top: 20px;
+}
+.container a{
+ color: #fff;
+ background-color: #696969;
+}
+.button{
+  padding-top: 50px;
+}
+.devlopment{
+  height: 50vh;
+  width: 100%;
+  background-color: gainsboro;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+
+.services{
+  height: 110vh;
+  width: 100%;
+  background-color:#333333 ;
+}
+.container1{
+  padding-top: 30px ;
+padding-left: 200px;
+  padding-right: 200px;
+  
+}
+.card img{
+  width: 100%;
+}
+.card{
+  border-radius: 2px;
+  background-color: #fff;
+  
+  
+  
+}
+.container1 p{
+  font-size: 20px;
+  color:black;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.container1 h1{
+  font-size: 30px;
+   color:black;
+  width: 100%;
+  padding-top: 15px;
+}
+.middle2{
+  padding-top: 55px;
+  height: 60vh;
+  width: 100%;
+  text-align: center;
+}
+.middle2 p{
+  padding-top: 55px;
+  font-size: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+  
+  padding-bottom: 120px;
+}
+.kon p{
+      padding-top: 5%;
+      font-size: 20px;
+       padding-left: 5%;
+      padding-right: 5%;
+       color:black;
+  }
+   .kon h1{
+      padding-top: 10%;
+      font-size: 30px;
+      color:black;
+     
+     
+  }
+  @media(max-width:771px) { 
+    .ppp{
+ display: none;
+  }
+ }
+  
+
+
+@media(max-width:479px){
+.banner {
+ 
+  height: 600px;
+}
+.container{
+  padding-top: 120px;
+}
+.devlopment{
+  height: 1300px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.devlopment h1{
+  font-size: 30px;
+}
+.services{
+  height: 2550px;
+  width: 100%;
+  background-color:#333333 ;
+}
+.container1{
+  padding-top: 25px ;
+padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.card img{
+  width: 100%;
+}
+.card{
+  border-radius: 2px;
+  background-color: #fff;
+  padding-left: 2px;
+  padding-right: 2px;
+  
+}
+.container1 p{
+  font-size: 20px;
+  color:black;
+  width: 100%;
+  
+}
+.container1 h1{
+  font-size: 30px;
+   color:black;
+  width: 100%;
+  padding-top: 15px;
+}
+.middle2{
+  height: 800px;
+  
+}
+.middle2 p{
+padding-left: 2px;
+  padding-right: 2px;
+}
+
+}
+@media(min-width:480px) and (max-width:574px){
+  .banner {
+ 
+  height: 700px;
+}
+.container{
+  padding-top: 120px;
+}
+.devlopment{
+  height: 600px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.services{
+  height: 2000px;
+  width: 100%;
+  background-color:#333333 ;
+}
+.container1{
+  padding-top: 25px ;
+padding-left: 50px;
+  padding-right: 50px;
+  
+}
+.card img{
+  width: 100%;
+}
+.card{
+  border-radius: 2px;
+  background-color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.container1 p{
+  font-size: 20px;
+  color:black;
+  width: 100%;
+  
+}
+.container1 h1{
+  font-size: 30px;
+   color:black;
+  width: 100%;
+  padding-top: 15px;
+}
+
+
+}
+@media(min-width:575px) and (max-width:767px){
+  .banner {
+ 
+  height: 800px;
+}
+.container{
+  padding-top: 200px;
+}
+.devlopment{
+  height: 600px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.services{
+  height: 2300px;
+  width: 100%;
+  background-color:#333333 ;
+}
+.container1{
+  padding-top: 25px ;
+padding-left: 50px;
+  padding-right: 50px;
+  
+}
+.card img{
+  width: 100%;
+}
+.card{
+  border-radius: 2px;
+  background-color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.container1 p{
+  font-size: 20px;
+  color:black;
+  width: 100%;
+  
+}
+.container1 h1{
+  font-size: 30px;
+   color:black;
+  width: 100%;
+  padding-top: 15px;
+}
+
+}
+@media(min-width:768px) and (max-width:991px){
+  .banner {
+ 
+  height: 900px;
+}
+.container{
+  padding-top: 120px;
+}
+.devlopment{
+  height: 600px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.services{
+  height: 2700px;
+  width: 100%;
+  background-color:#333333 ;
+}
+.container1{
+  padding-top: 25px ;
+padding-left: 50px;
+  padding-right: 50px;
+  
+}
+.card img{
+  width: 100%;
+}
+.card{
+  border-radius: 2px;
+  background-color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.container1 p{
+  font-size: 20px;
+  color:black;
+  width: 100%;
+  
+}
+.container1 h1{
+  font-size: 30px;
+   color:black;
+  width: 100%;
+  padding-top: 15px;
+}
+
+}
+@media(min-width:992px){
+  .banner {
+ 
+  height: 900px;
+}
+.container{
+  padding-top: 200px;
+}
+.devlopment{
+  height: 500px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.services{
+  height: 800px;
+  width: 100%;
+  background-color:#333333 ;
+}
+.container1{
+  padding-top: 25px ;
+padding-left: 50px;
+  padding-right: 50px;
+  
+}
+.card img{
+  width: 100%;
+}
+.card{
+  border-radius: 2px;
+  background-color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.container1 p{
+  font-size: 20px;
+  color:black;
+  width: 100%;
+  
+}
+.container1 h1{
+  font-size: 30px;
+   color:black;
+  width: 100%;
+  padding-top: 15px;
+}
+
+}
+
